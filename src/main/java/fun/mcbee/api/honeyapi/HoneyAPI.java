@@ -31,7 +31,7 @@ public final class HoneyAPI extends JavaPlugin {
         File tempFile = new File(dir + "HoneyAPI");
         if (!tempFile.exists()) {
             new File(dir + "HoneyAPI").mkdirs();
-            Bukkit.getConsoleSender().sendMessage(ChatColor.of(new Color(51, 255, 255)) + "HoneyAPI §7- " + ChatColor.of(new Color(0, 255, 0)) + "HoneyAPI" + " folder was created.");
+            Bukkit.getConsoleSender().sendMessage(ChatColor.of(new Color(255, 119, 0)) + "HoneyAPI §7- " + ChatColor.of(new Color(255, 68, 0)) + "HoneyAPI" + " folder was created.");
         }
     }
 
