@@ -6,7 +6,7 @@
 
     <groupId>fun.mcbee.api</groupId>
     <artifactId>HoneyAPI</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>HoneyAPI</name>
@@ -85,4 +85,5 @@
             </resource>
         </resources>
     </build>
+
 </project>
